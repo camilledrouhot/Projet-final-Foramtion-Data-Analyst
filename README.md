@@ -7,6 +7,5 @@ Trouver les types de jeux les plus populaires et estimer leur popularité future
 - Projet_Fin_Formation_Camille_Drouhot.pbix : Power BI
 - Présentation Projet de fin de formation - Camille Drouhot.pptx : Présentation
 ## Ouvrir le projet
-6
 - Ouvrir le Poxerpoint avec Office
 - Ouvrir le .pbix avec Power BI Desktop
